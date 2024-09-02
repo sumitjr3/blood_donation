@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "283486625334",
+    "firebase_url": "https://blooddonation-9aca9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blooddonation-9aca9",
+    "storage_bucket": "blooddonation-9aca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283486625334:android:21c505a6700053dd7b4297",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZlpTGQTJE9euTeMPujBDbOr0w_5Iox0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
